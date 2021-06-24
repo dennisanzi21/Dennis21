@@ -1,3 +1,3 @@
 # TARCTicketingSystem
 
-A movie ticketing system that print out movie ticket to users.
+A movie ticketing system that prints out movie ticket to users.
